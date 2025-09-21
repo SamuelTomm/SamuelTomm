@@ -28,10 +28,8 @@
 ---
 
 ## 📊 Estatísticas do GitHub
-<div align="center">
-  <img src="https://raw.githubusercontent.com/SamuelTomm/SamuelTomm/main/profile-summary-card-output/radical/3-stats.svg" height="200" style="vertical-align: middle;" />
-  <img src="https://raw.githubusercontent.com/SamuelTomm/SamuelTomm/main/profile-summary-card-output/radical/1-repos-per-language.svg" height="200" style="vertical-align: middle;" />
-</div>
+
+<img width="1311" height="450" alt="image" src="https://github.com/user-attachments/assets/967f0523-3e0b-4159-8e81-ee8dad1a87e3" />s
 
 
 ---
