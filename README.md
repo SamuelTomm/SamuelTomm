@@ -6,8 +6,8 @@
 ---
 
 ## 🚀 Sobre mim
-- Foco em **desenvolvimento backend** com **PHP & Laravel** (minha principal stack).  
-- Experiência também com **Java, C, JavaScript, HTML, CSS e SQL**.  
+- Foco em desenvolvimento backend com PHP & Laravel (minha principal stack), atuando também com frontend e banco de dados.  
+- Experiência em Java, C, JavaScript, HTML, CSS e SQL. 
 - Utilizo **Inteligência Artificial** para aumentar produtividade e criar projetos inovadores.  
 - Comprometido, proativo e com facilidade em trabalhar em equipe.  
 
