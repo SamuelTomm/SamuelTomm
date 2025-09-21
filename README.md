@@ -28,10 +28,10 @@
 ---
 
 ## 📊 Estatísticas do GitHub
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=SamuelTomm&show_icons=true&theme=radical" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelTomm&layout=compact&theme=radical" />
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/SamuelTomm/SamuelTomm/main/profile-summary-card-output/radical/3-stats.svg" height="200" />
+  <img src="https://raw.githubusercontent.com/SamuelTomm/SamuelTomm/main/profile-summary-card-output/radical/1-repos-per-language.svg" height="200" />
+</div>
 
 ---
 
