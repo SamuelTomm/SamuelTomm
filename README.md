@@ -28,7 +28,8 @@
 ---
 
 ## 📊 Estatísticas do GitHub
-| ![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamuelTomm&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelTomm&layout=compact&theme=radical) |
+| ![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamuelTomm&show_icons=true&theme=radical&card_width=420) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelTomm&layout=compact&theme=radical&card_width=420) |
+| --- | --- |
 
 ---
 
