@@ -33,6 +33,7 @@
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelTomm&layout=compact&theme=radical" />
 </p>
 
+---
 
 ## 📫 Contato
 📩 [fritzen.samuell@gmail.com](mailto:fritzen.samuell@gmail.com)  
