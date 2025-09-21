@@ -1,4 +1,4 @@
-<img width="1311" height="450" alt="image" src="https://github.com/user-attachments/assets/967f0523-3e0b-4159-8e81-ee8dad1a87e3" /># 👋 Olá, me chamo Samuel Tomm!
+# 👋 Olá, me chamo Samuel Tomm!
 
 🎓 Estudante do 3º ano do curso **Técnico em Informática** no Instituto Ivoti (conclusão em 2025).  
 👨‍💻 Atualmente, atuo como **Estagiário de Desenvolvimento** na [Skala Code](https://skalacode.com), onde transformamos ideias em soluções digitais com **IA aplicada a negócios**.  
