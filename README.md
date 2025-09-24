@@ -31,32 +31,20 @@
 <p align="center">
   <img 
     height="150em" 
-    src="https://github-readme-stats.vercel.app/api?username=SamuelTomm&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=18" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelTomm&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" 
   />
   <img 
     height="150em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelTomm&layout=compact&theme=radical&border_radius=18" 
+    src="https://github-readme-stats.vercel.app/api?username=SamuelTomm&theme=radical&hide_border=false&include_all_commits=false&count_private=false" 
   />
 </p>
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SamuelTomm&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=SamuelTomm&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelTomm&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SamuelTomm&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=SamuelTomm&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelTomm&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=SamuelTomm&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
----
-[![](https://visitcount.itsvg.in/api?id=SamuelTomm&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ---
 
 ## 📫 Contato
