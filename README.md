@@ -28,16 +28,13 @@
 ---
 
 ## 📊 Estatísticas do GitHub
-<p align="center">
-  <img 
-    height="150em" 
-    src="https://github-readme-stats.vercel.app/api?username=SamuelTomm&show_icons=true&theme=radical&hide_border=false&include_all_commits=false&count_private=false" 
-  />
-  <img 
-    height="150em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelTomm&layout=compact&theme=radical&hide_border=false&include_all_commits=false&count_private=false" 
-  />
-</p>
+<div align="center">
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SamuelTomm&show_icons=true&theme=radical)
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelTomm&layout=compact&theme=radical)
+
+</div>
 
 
 [![](https://visitcount.itsvg.in/api?id=SamuelTomm&icon=0&color=0)](https://visitcount.itsvg.in)
@@ -45,8 +42,6 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ---
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelTomm&layout=compact&theme=radical)
 
 
 ## 📫 Contato
