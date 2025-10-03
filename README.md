@@ -47,6 +47,9 @@
 
 ---
 
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelTomm&layout=compact&theme=tokyonight)
+
+
 ## 📫 Contato
 📩 [fritzen.samuell@gmail.com](mailto:fritzen.samuell@gmail.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/samuel-tomm-891019293)
