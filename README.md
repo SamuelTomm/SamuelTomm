@@ -47,7 +47,7 @@
 
 ---
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelTomm&layout=compact&theme=tokyonight)
+[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelTomm&layout=compact&theme=tokyonight)](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelTomm&layout=compact&theme=radical)
 
 
 ## 📫 Contato
