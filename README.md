@@ -1,7 +1,7 @@
 # 👋 Olá, me chamo Samuel Tomm!
 
-🎓 Em fase de estágio no curso **Técnico em Informática** no Instituto Ivoti (conclusão em 2026).  
-👨‍💻 Atualmente, atuo como **Desenvolvedor** na [Skala Code](https://skalacode.com), onde transformamos ideias em soluções digitais com **IA aplicada a negócios**.  
+👨‍💻  Atualmente, atuo como **Desenvolvedor** na [Skala Code](https://skalacode.com), onde transformamos ideias em soluções digitais com **IA aplicada a negócios**. 
+🎓 Em fase de estágio no curso **Técnico em Informática** no Instituto Ivoti (conclusão em 2026).
 
 ---
 
